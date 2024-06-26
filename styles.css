@@ -1,0 +1,10 @@
+#above-the-fold #title h1.ytd-watch-metadata {
+  opacity: 0 !important;
+  user-select: none !important;
+}
+
+ytd-compact-video-renderer #video-title, 
+ytd-grid-video-renderer #video-title {
+  opacity: 1 !important;
+  user-select: auto !important;
+}
